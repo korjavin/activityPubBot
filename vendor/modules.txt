@@ -1,0 +1,13 @@
+# github.com/gorilla/websocket v1.5.1
+## explicit; go 1.20
+github.com/gorilla/websocket
+# github.com/mattn/go-mastodon v0.0.9
+## explicit; go 1.21
+github.com/mattn/go-mastodon
+# github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
+## explicit
+github.com/tomnomnom/linkheader
+# golang.org/x/net v0.25.0
+## explicit; go 1.18
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
